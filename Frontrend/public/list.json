@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+       "title": "An 11-year-old orphan living with his unwelcoming aunt, uncle, and cousin, who learns of his own fame as a wizard known to have survived his parents' ",
+         "price": "00$",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "published_date": "2000-07-01",
+        "category": "free",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxqlBE7qBe5dnRj5MKAPdbl-UQ3F8KELC2sw&s/"
+
+    },
+    {
+        "id": 2,
+       "title": "Harry Potter lives his second year at Hogwarts with Ron and Hermione when a message on the wall announces that the legendary   ",
+         "price": "00$",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "published_date": "2005-07-01",
+        "category": "free",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxqlBE7qBe5dnRj5MKAPdbl-UQ3F8KELC2sw&s/"
+
+    },
+     {
+        "id": 3,
+       "title": "The novel follows Harry Potter, a young wizard, in his third year at Hogwarts School of Witchcraft and Wizardry. otter, a young wizard ",
+       "price": "00$",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "published_date": "2007-07-01",
+        "category": "free",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxqlBE7qBe5dnRj5MKAPdbl-UQ3F8KELC2sw&s/"
+
+    },
+    {
+        "id": 4,
+       "title": "Harry is chosen to compete in the Triwizard Tournament, a contest between Hogwarts, Beauxbatons, and Durmstrang. The tournament involves three dangerous  ",
+       "price": "00$",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "published_date": "2007-07-01",
+        "category": "free",
+        "image": "./hp.jpg"
+
+    },
+    {
+        "id": 5,
+       "title": "The fifth book in the Harry Potter series is Harry Potter and the Order of the Phoenix by J.K. Rowling. It follows Harry Potter's fifth year at Hogwarts School of Witchcraft and Wizardry",
+       "price": "00$",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "published_date": "2007-07-01",
+        "category": "free",
+        "image": "./hp.jpg"
+
+    },
+    {
+        "id": 6,
+       "title": "Harry Potter and the Half-Blood Prince is the sixth book in J.K. Rowling's Harry Potter series. It was published in 2005 and was adapted into a 2009 film. ",
+       "price": "00$",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "published_date": "2007-07-01",
+        "category": "free",
+        "image": "./hp.jpg"
+
+    },
+    {
+        "id": 7,
+       "title": "Without the guidance and protection of their professors, Harry (Daniel Radcliffe), Ron (Rupert Grint) and Hermione (Emma Watson) begin a mission to destroy the Horcruxes, ",
+       "price": "00$",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "published_date": "2010-07-01",
+        "category": "free",
+        "image": "./hp.jpg"
+
+    },
+    {
+        "id": 8,
+       "title": "The series was directed by four different people: Chris Columbus, Alfonso Cuarón, Mike Newell, and David Yates. The films star Daniel Radcliffe, Rupert Grint, and Emma Watson as Harry Potter, Ron Weasley, and Hermione Granger, respectively",
+       "price": "00$",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "published_date": "2012-07-01",
+        "category": "free",
+        "image":"./hp.jpg"
+
+    }
+]
