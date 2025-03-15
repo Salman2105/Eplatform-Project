@@ -1,16 +1,13 @@
-import Book from '../model/bookModel.js'
+import Book from '../model/bookModel.js';
 
- const getBook =async(req,res)=>{
-
-    try{
-        const book =await Book.find()
-        res.status(200).json(book)
-
-    }catch(err){
-        console.log("error", err);
-        res.status(500).json({message: "Server Error"})
-}}
-
-
+const getBook = async (req, res) => {
+  try {
+    const book = await Book.find();
+    res.status(200).json(book);
+  } catch (error) {
+    console.log( "error:", error);
+    res.status(500).json({ message: error.message });
+  }
+};
 
 export default getBook;
